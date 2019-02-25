@@ -15,3 +15,8 @@ ZSH_THEME="avit"
 plugins=(
   git
 )
+
+source $ZSH/oh-my-zsh.sh
+
+source ~/.oh-my-zsh/custom/plugins/zsh-autosuggestions/zsh-autosuggestions.zsh
+AUTOSUGGESTION_HIGHLIGHT_COLOR='fg=250'
