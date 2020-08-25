@@ -3,7 +3,7 @@
 
 ## Install zsh
 
-`sudo apt install zsh`
+`brew install zsh`
 
 `chsh -s /usr/bin/zsh root`
 
