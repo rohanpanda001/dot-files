@@ -17,3 +17,5 @@ npm i -g yarn
 
 brew install java
 echo 'export PATH="/opt/homebrew/opt/openjdk/bin:$PATH"' >> ~/.zshrc
+
+brew install cocoapods
