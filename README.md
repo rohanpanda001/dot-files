@@ -3,7 +3,7 @@
 
 ## Run setup
  
- `./setup.sh`
+ `sh setup.sh`
  
 ## Add Plugins to ~/.zshrc
  
